@@ -7,3 +7,4 @@ python test_on_images.py --dataset_file=hico --backbone=resnet50 --batch_size=1 
 Checkpoint MOdel on drive Link:
 https://drive.google.com/drive/folders/1_mDJczUbihRgTCCL8ShxE_QyN-yxBrRw?usp=sharing
 
+After downloading the saved model, place in the folder data/detr_coco
