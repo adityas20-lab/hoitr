@@ -1,7 +1,7 @@
 # hoitr
 Inference of Hoi Transformer
 
-```python test_on_images.py --dataset_file=hico --backbone=resnet50 --batch_size=1 --log_dir=./ --model_path=D:/s20/HoiTransformer/data/detr_coco/res50_hico_1cf00bb.pth```
+```python test_on_images.py --dataset_file=hico --backbone=resnet50 --batch_size=1 --log_dir=./ --model_path=hoitr/data/detr_coco/res50_hico_1cf00bb.pth```
 
 # Checkpoint Model on drive Link:
 # https://drive.google.com/drive/folders/1_mDJczUbihRgTCCL8ShxE_QyN-yxBrRw?usp=sharing
